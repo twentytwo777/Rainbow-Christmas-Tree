@@ -1,0 +1,9 @@
+{
+  "name": "christmastree",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
